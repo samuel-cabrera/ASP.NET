@@ -6,7 +6,7 @@ set -euo pipefail
 # =========================================================
 #
 # Requisitos:
-# - Carpeta con el código fuente ASP.NET (program.cs, csproj, Pages/, etc.)
+# - Carpeta con el código fuente ASP.NET
 # - Ejecutar este script desde la carpeta raíz del proyecto
 #
 # ---------- Config ----------
